@@ -27,8 +27,15 @@ Our dataset, obtained from the WebIS research group's GitHub repository, compris
 ## Exploratory Data Analysis (EDA) Insights
 
 * **Bias Distribution:** Dataset skewed towards left-leaning content (47.4%).
+  
+  ![image](https://github.com/doshiharmish/PoliticalIdeologiesPredictioninNewsArticles/assets/16878994/9d9d7bde-509d-45e3-b2b3-416b71aebefc)
+
 * **Author Bias:**  Most authors were consistently associated with one specific ideology. While this feature could aid in bias prediction, it introduces the cold-start problem, which poses challenges for model accuracy when encountering new authors.
+![image](https://github.com/doshiharmish/PoliticalIdeologiesPredictioninNewsArticles/assets/16878994/25263768-761c-4788-8cd0-84389df86cca)
+
 * **Word Clouds:** Visualization using word clouds was limited in its ability to reveal nuanced linguistic biases.
+![image](https://github.com/doshiharmish/PoliticalIdeologiesPredictioninNewsArticles/assets/16878994/6968cdc1-52e3-4354-aead-d0acac5506c1)
+
 
 ## Methodology
 
